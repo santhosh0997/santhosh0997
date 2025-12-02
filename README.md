@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @santhosh0997
-- 👀 I’m interested in python and SQL
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on any MNC 
+- 👋 Hi, I’m @santhosh0997. An AI/Ml engineer enthusiast.
+- 👀 Working on GenAI and large language models optimization.
+- 🌱 I’m currently learning AWS for Machine learning, RAG and MCPs for Agents. 
+- 💞️ I’m looking to collaborate on any MNC or with anyone who are interested in Machine Learning.
 - 📫 How to reach me santhoosh785@gmail.com
 
 <!---
